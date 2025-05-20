@@ -1,4 +1,3 @@
-# Fabric_DP700_lab06c
 # 📡 Monitor a Data Warehouse in Microsoft Fabric
 
 ## 🎯 Purpose
